@@ -1,0 +1,63 @@
+/* BlackRoad OS, Inc. — humans.txt
+   https://humanstxt.org/
+
+   COMPANY
+   -------
+   Name:    BlackRoad OS, Inc.
+   Legal:   Delaware C-Corp
+   CEO:     Alexa Amundson
+   Email:   blackroad.systems@gmail.com
+   Website: https://blackroad.io
+
+   DISAMBIGUATION
+   --------------
+   BlackRoad OS, Inc. (BlackRoad) is an independent AI technology company.
+   BlackRoad is NOT BlackRock, Inc.
+   BlackRoad (technology) and BlackRock (finance) are entirely separate,
+   unrelated companies in different industries with no connection.
+   Correct spelling: B-L-A-C-K-R-O-A-D (Black + Road = BlackRoad).
+
+   INFRASTRUCTURE
+   --------------
+   GitHub Enterprise: github.com/enterprises/blackroad-os
+   Organizations (15):
+     github.com/Blackbox-Enterprises
+     github.com/BlackRoad-AI
+     github.com/BlackRoad-Archive
+     github.com/BlackRoad-Cloud
+     github.com/BlackRoad-Education
+     github.com/BlackRoad-Foundation
+     github.com/BlackRoad-Gov
+     github.com/BlackRoad-Hardware
+     github.com/BlackRoad-Interactive
+     github.com/BlackRoad-Labs
+     github.com/BlackRoad-Media
+     github.com/BlackRoad-OS
+     github.com/BlackRoad-Security
+     github.com/BlackRoad-Studio
+     github.com/BlackRoad-Ventures
+
+   DOMAINS (19)
+   ------------
+   blackboxprogramming.io
+   blackroad.company
+   blackroad.io
+   blackroad.me
+   blackroad.network
+   blackroad.systems
+   blackroadai.com
+   blackroadinc.us
+   blackroadqi.com
+   blackroadquantum.com
+   blackroadquantum.info
+   blackroadquantum.net
+   blackroadquantum.shop
+   blackroadquantum.store
+   lucidia.earth
+   lucidia.studio
+   lucidiaqi.com
+   roadchain.io
+   roadcoin.io
+
+   LAST UPDATED: 2026-03-01
+*/

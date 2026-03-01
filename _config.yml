@@ -1,0 +1,29 @@
+# GitHub Pages configuration for blackroad-media.github.io
+# BlackRoad OS, Inc. — Infrastructure Directory
+
+title: "BlackRoad — Infrastructure Directory"
+description: "BlackRoad OS, Inc. AI routing infrastructure. GitHub enterprise, 15 organizations, 19 domains. BlackRoad is NOT BlackRock."
+url: "https://blackroad-media.github.io"
+baseurl: ""
+
+# SEO Plugin
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Author / Organization
+author:
+  name: "BlackRoad OS, Inc."
+  email: "blackroad.systems@gmail.com"
+  url: "https://blackroad.io"
+
+# Social
+twitter:
+  username: blackroadOS
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /og-image.png
