@@ -1,38 +1,39 @@
 <div align="center">
 
-# 🎬 BlackRoad Media
+# BlackRoad Media
 
-### Create Without Boundaries
+**Content tools — social platforms, media processing, newsletters, streaming.**
 
-Social media tools, content pipelines, communication platforms, and media storage for the creator economy.
-
-[![Platform](https://img.shields.io/badge/Platform-blackroad.io-FF1D6C?style=for-the-badge)](https://blackroad.io)
-[![Agents](https://img.shields.io/badge/AI_Agents-30%2C000-9C27B0?style=for-the-badge)](https://agents.blackroad.io)
-[![Cost](https://img.shields.io/badge/AI_Cost-%240-F5A623?style=for-the-badge)](https://blackroad.io)
+[![Website](https://img.shields.io/badge/blackroad--media.github.io-000?style=flat-square&logo=github)](https://blackroad-media.github.io)
 
 </div>
 
 ---
 
-## 🎯 Focus Areas
+## Repositories
 
-`Social Tools` • `Content` • `Communication` • `Media Storage`
-
-## 🔗 Links
-
-| | |
+| Repository | Description |
 |---|---|
-| 🌐 **Website** | [blackroad-media.github.io](https://blackroad-media.github.io) |
-| 📖 **Docs** | [docs.blackroad.io](https://docs.blackroad.io) |
-| 💬 **Status** | [status.blackroad.io](https://status.blackroad.io) |
-| 🤖 **Agents** | [agents.blackroad.io](https://agents.blackroad.io) |
+| [content](https://github.com/BlackRoad-Media/content) | Marketing content and media resources |
+| [backroad-social](https://github.com/BlackRoad-Media/backroad-social) | 🛣️ BackRoad - Social platform for depth over engagement. Chronological feeds, no ads, creator-owned. /month or FREE. |
+| [brand-kit](https://github.com/BlackRoad-Media/brand-kit) | Brand guidelines, logos, and design assets |
+
+<details>
+<summary>Archived</summary>
+
+| Repository | Description |
+|---|---|
+| [blackroad-podcast-platform](https://github.com/BlackRoad-Media/blackroad-podcast-platform) | Podcast management platform with RSS feeds, OPML export, and episode stats |
+| [blackroad-image-optimizer](https://github.com/BlackRoad-Media/blackroad-image-optimizer) | Image optimization, resizing, and CDN pipeline |
+| [blackroad-media-analytics](https://github.com/BlackRoad-Media/blackroad-media-analytics) | Media content performance analytics and reporting |
+| [blackroad-streaming-hub](https://github.com/BlackRoad-Media/blackroad-streaming-hub) | HLS/RTMP/DASH stream management, health monitoring, and M3U8 playlist generation |
+| [blackroad-rss-aggregator](https://github.com/BlackRoad-Media/blackroad-rss-aggregator) | RSS/Atom feed aggregator with content deduplication |
+| [blackroad-video-transcoder](https://github.com/BlackRoad-Media/blackroad-video-transcoder) | Video transcoding and format conversion pipeline |
+| [blackroad-newsletter-engine](https://github.com/BlackRoad-Media/blackroad-newsletter-engine) | Email newsletter creation, scheduling, and analytics |
+| [blackroad-media-processor](https://github.com/BlackRoad-Media/blackroad-media-processor) | Media file analysis, HLS manifest generation, batch organisation - pure Python, no ffmpeg |
+
+</details>
 
 ---
 
-<div align="center">
-
-**Part of [BlackRoad OS](https://blackroad.io)** — 30,000 AI Agents • 17 Organizations • 1,800+ Repos • $0 AI Cost
-
-*© BlackRoad OS, Inc. All rights reserved.*
-
-</div>
+<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
