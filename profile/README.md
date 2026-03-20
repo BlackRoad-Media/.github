@@ -1,39 +1,25 @@
-<div align="center">
-
 # BlackRoad Media
 
-**Content tools — social platforms, media processing, newsletters, streaming.**
-
-[![Website](https://img.shields.io/badge/blackroad--media.github.io-000?style=flat-square&logo=github)](https://blackroad-media.github.io)
-
-</div>
+**A division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — Proprietary Software**
 
 ---
 
-## Repositories
+## About
 
-| Repository | Description |
-|---|---|
-| [content](https://github.com/BlackRoad-Media/content) | Marketing content and media resources |
-| [backroad-social](https://github.com/BlackRoad-Media/backroad-social) | 🛣️ BackRoad - Social platform for depth over engagement. Chronological feeds, no ads, creator-owned. /month or FREE. |
-| [brand-kit](https://github.com/BlackRoad-Media/brand-kit) | Brand guidelines, logos, and design assets |
+BlackRoad Media is the content and media division of BlackRoad OS. BlackRoad Media handles streaming, podcasts, newsletters, social platforms, and media processing. Content creation and distribution without platform dependency.
 
-<details>
-<summary>Archived</summary>
+All repositories in this organization are proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency. Commercial use, forking, and redistribution are prohibited.
 
-| Repository | Description |
-|---|---|
-| [blackroad-podcast-platform](https://github.com/BlackRoad-Media/blackroad-podcast-platform) | Podcast management platform with RSS feeds, OPML export, and episode stats |
-| [blackroad-image-optimizer](https://github.com/BlackRoad-Media/blackroad-image-optimizer) | Image optimization, resizing, and CDN pipeline |
-| [blackroad-media-analytics](https://github.com/BlackRoad-Media/blackroad-media-analytics) | Media content performance analytics and reporting |
-| [blackroad-streaming-hub](https://github.com/BlackRoad-Media/blackroad-streaming-hub) | HLS/RTMP/DASH stream management, health monitoring, and M3U8 playlist generation |
-| [blackroad-rss-aggregator](https://github.com/BlackRoad-Media/blackroad-rss-aggregator) | RSS/Atom feed aggregator with content deduplication |
-| [blackroad-video-transcoder](https://github.com/BlackRoad-Media/blackroad-video-transcoder) | Video transcoding and format conversion pipeline |
-| [blackroad-newsletter-engine](https://github.com/BlackRoad-Media/blackroad-newsletter-engine) | Email newsletter creation, scheduling, and analytics |
-| [blackroad-media-processor](https://github.com/BlackRoad-Media/blackroad-media-processor) | Media file analysis, HLS manifest generation, batch organisation - pure Python, no ffmpeg |
+## Parent Organization
 
-</details>
+This division operates under [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc), the corporate root of the BlackRoad ecosystem. See the parent org for the full technology stack, product catalog, and organizational structure.
+
+## License
+
+Proprietary — BlackRoad OS, Inc. See individual repositories for license terms.
 
 ---
 
-<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
