@@ -1,19 +1,16 @@
 # BlackRoad-Media
 
-**Streaming and content** — Part of the BlackRoad OS ecosystem.
+**BlackRoad Media — streaming, podcasts, content creation. Creator-first. Pave Tomorrow.**
 
-> 18 orgs · 20 domains · 200 agents · Sovereign infrastructure
+> Remember the Road. Pave Tomorrow.
 
-17 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+BlackRoad OS, Inc. — Delaware C-Corp, incorporated November 17, 2025.
 
-## Key Repositories
+20 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
 
-- [.github](https://github.com/BlackRoad-Media/.github) — Content, social, streaming — downstream from BlackRoad-OS-Inc[0:60]
-- [blackroad-media.github.io](https://github.com/BlackRoad-Media/blackroad-media.github.io) — BlackRoad OS GitHub Pages[0:60]
-- [roadtube](https://github.com/BlackRoad-Media/roadtube) — RoadTube — Where STEM Creators Thrive[0:60]
-- [blackroad-alfred](https://github.com/BlackRoad-Media/blackroad-alfred) — blackroad-alfred — BlackRoad-Media. Proprietary BlackRoad OS, Inc.[0:60]
-- [blackroad-raycast](https://github.com/BlackRoad-Media/blackroad-raycast) — blackroad-raycast — BlackRoad-Media. Proprietary BlackRoad OS, Inc.[0:60]
+18 orgs · 20 domains · 200 agents · 2,156 repos · Sovereign infrastructure
 
 ---
 
-Proprietary — BlackRoad OS, Inc. All rights reserved.
+Proprietary — BlackRoad OS, Inc. All rights reserved. Incorporated 2025.
+
